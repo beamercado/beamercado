@@ -5,9 +5,9 @@
     I’m Bea, a computer science student at the University of the Philippines Los Baños with a background on web development, particularly in backend programming. I have more experience working on server-side components, but I’m also committed to improving my frontend skills to become a more versatile developer.
 </p>
 
-<h3 align="left">Personal Projects</h3>
+<h3 align="left">Projects</h3>
 <p align="left">
-    Most of my current projects stem from my academic work, where I’ve developed web applications focusing on backend development. Outside of class, I’ve worked on automating simple tasks using tools like Google Apps Script to help streamline processes for certain jobs. While I’m still building my portfolio, I’m eager to start new projects and develop practical web solutions.
+    Most of my current projects stem from my academic work, where I’ve developed web applications focusing on backend development. Outside of class, I’ve worked on automating simple tasks to help streamline processes for certain jobs. While I’m still building my portfolio, I’m eager to start new projects and develop practical web solutions.
 </p>
 <p align="left">
    Here are some of the group projects that I have worked on:
